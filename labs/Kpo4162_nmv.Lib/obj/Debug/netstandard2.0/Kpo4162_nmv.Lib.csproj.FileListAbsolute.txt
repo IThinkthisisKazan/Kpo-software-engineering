@@ -1,0 +1,9 @@
+N:\STUDY_3\KPO\all_labs_c#\example\Kpo4162_nmv.Lib\bin\Debug\netstandard2.0\Kpo4162_nmv.Lib.deps.json
+N:\STUDY_3\KPO\all_labs_c#\example\Kpo4162_nmv.Lib\bin\Debug\netstandard2.0\Kpo4162_nmv.Lib.dll
+N:\STUDY_3\KPO\all_labs_c#\example\Kpo4162_nmv.Lib\bin\Debug\netstandard2.0\Kpo4162_nmv.Lib.pdb
+N:\STUDY_3\KPO\all_labs_c#\example\Kpo4162_nmv.Lib\obj\Debug\netstandard2.0\Kpo4162_nmv.Lib.csprojAssemblyReference.cache
+N:\STUDY_3\KPO\all_labs_c#\example\Kpo4162_nmv.Lib\obj\Debug\netstandard2.0\Kpo4162_nmv.Lib.AssemblyInfoInputs.cache
+N:\STUDY_3\KPO\all_labs_c#\example\Kpo4162_nmv.Lib\obj\Debug\netstandard2.0\Kpo4162_nmv.Lib.AssemblyInfo.cs
+N:\STUDY_3\KPO\all_labs_c#\example\Kpo4162_nmv.Lib\obj\Debug\netstandard2.0\Kpo4162_nmv.Lib.csproj.CoreCompileInputs.cache
+N:\STUDY_3\KPO\all_labs_c#\example\Kpo4162_nmv.Lib\obj\Debug\netstandard2.0\Kpo4162_nmv.Lib.dll
+N:\STUDY_3\KPO\all_labs_c#\example\Kpo4162_nmv.Lib\obj\Debug\netstandard2.0\Kpo4162_nmv.Lib.pdb
